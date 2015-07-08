@@ -1,0 +1,82 @@
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\bin\Debug\Zadatak2.exe.config
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\bin\Debug\Zadatak2.exe
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\bin\Debug\Zadatak2.pdb
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.csprojResolveAssemblyReference.cache
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\MainWindow.baml
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\MainWindow.g.cs
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\App.g.cs
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2_MarkupCompile.cache
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.g.resources
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.Properties.Resources.resources
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.csproj.GenerateResource.Cache
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.exe
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.pdb
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Controls\User.baml
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Controls\User.g.cs
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2_MarkupCompile.lref
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Controls\Post.g.cs
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\domaci\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Controls\Post.baml
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\bin\Debug\Zadatak2.exe.config
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.exe
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.pdb
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\bin\Debug\Zadatak2.exe
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\bin\Debug\Zadatak2.pdb
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.csprojResolveAssemblyReference.cache
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Controls\User.baml
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Controls\Post.g.cs
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Controls\User.g.cs
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\MainWindow.g.cs
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\App.g.cs
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2_MarkupCompile.cache
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2_MarkupCompile.lref
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Controls\Post.baml
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\MainWindow.baml
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.g.resources
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.Properties.Resources.resources
+F:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.csproj.GenerateResource.Cache
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\bin\Debug\Zadatak2.exe.config
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\bin\Debug\Zadatak2.exe
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\bin\Debug\Zadatak2.pdb
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Controls\User.baml
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Controls\Post.g.cs
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Controls\User.g.cs
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\MainWindow.g.cs
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\App.g.cs
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2_MarkupCompile.cache
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2_MarkupCompile.lref
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Controls\Post.baml
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\MainWindow.baml
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.g.resources
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.Properties.Resources.resources
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.csproj.GenerateResource.Cache
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.exe
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.pdb
+E:\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.csprojResolveAssemblyReference.cache
+E:\ostalo\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\bin\Debug\Zadatak2.exe.config
+E:\ostalo\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.exe
+E:\ostalo\pzw\Josipa Braica - domaci 2\Zadatak2\Zadatak2\obj\Debug\Zadatak2.pdb
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\bin\Debug\Zadatak2.exe.config
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\obj\Debug\Zadatak2.exe
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\obj\Debug\Zadatak2.pdb
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\bin\Debug\Zadatak2.exe
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\bin\Debug\Zadatak2.pdb
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\obj\Debug\Zadatak2.csprojResolveAssemblyReference.cache
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\obj\Debug\Controls\User.baml
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\obj\Debug\Controls\Post.g.cs
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\obj\Debug\Controls\User.g.cs
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\obj\Debug\MainWindow.g.cs
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\obj\Debug\App.g.cs
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\obj\Debug\Zadatak2_MarkupCompile.cache
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\obj\Debug\Zadatak2_MarkupCompile.lref
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\obj\Debug\Controls\Post.baml
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\obj\Debug\MainWindow.baml
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\obj\Debug\Zadatak2.g.resources
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\obj\Debug\Zadatak2.Properties.Resources.resources
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\labovi\Zadatak2\Zadatak2\obj\Debug\Zadatak2.csproj.GenerateResource.Cache
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\Zadatak2\Zadatak2\bin\Debug\Zadatak2.exe.config
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\Zadatak2\Zadatak2\obj\Debug\Zadatak2.exe
+C:\Users\Josipa\Desktop\faks\6. semestar\Programiranje za Windows\Zadatak2\Zadatak2\obj\Debug\Zadatak2.pdb

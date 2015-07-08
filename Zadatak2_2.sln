@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadatak2_2", "Zadatak2_2\Zadatak2_2.csproj", "{B0D14BDF-814C-445D-BD7E-886E5B1EBB36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateProjectTest", "DateProjectTest\DateProjectTest.csproj", "{73BAE64A-B459-450E-B3A7-A1319D2AB945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0D14BDF-814C-445D-BD7E-886E5B1EBB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0D14BDF-814C-445D-BD7E-886E5B1EBB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0D14BDF-814C-445D-BD7E-886E5B1EBB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0D14BDF-814C-445D-BD7E-886E5B1EBB36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BAE64A-B459-450E-B3A7-A1319D2AB945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BAE64A-B459-450E-B3A7-A1319D2AB945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BAE64A-B459-450E-B3A7-A1319D2AB945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BAE64A-B459-450E-B3A7-A1319D2AB945}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
